@@ -1,0 +1,5 @@
+c:\Users\luzhanpeng\documents\visual studio 2013\Projects\DALHelp\DALLib\bin\Debug\DALLib.dll
+c:\Users\luzhanpeng\documents\visual studio 2013\Projects\DALHelp\DALLib\bin\Debug\DALLib.pdb
+c:\Users\luzhanpeng\documents\visual studio 2013\Projects\DALHelp\DALLib\obj\Debug\DALLib.csprojResolveAssemblyReference.cache
+c:\Users\luzhanpeng\documents\visual studio 2013\Projects\DALHelp\DALLib\obj\Debug\DALLib.dll
+c:\Users\luzhanpeng\documents\visual studio 2013\Projects\DALHelp\DALLib\obj\Debug\DALLib.pdb
